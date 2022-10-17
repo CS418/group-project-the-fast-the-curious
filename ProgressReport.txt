@@ -1,0 +1,28 @@
+•Project introduction: an introduction that discusses the data you are analyzing,
+and the question or questions you are investigating.
+• Any changes: a discussion whether your scope has changed since the check-in
+proposal slides. What did you aim to do that you will not do and what have you
+added to the project?
+• Data cleaning: show clearly how you cleaned your data.
+• Exploratory data analysis: explain what your data looks like (words are fine, but
+visualizations are often better). Include any interesting issues or preliminary
+conclusions you have about your data.
+• At least one visualization that tests an interesting hypothesis, along with an
+explanation about why you thought this was an interesting hypothesis to
+investigate.
+• At least one ML analysis on your dataset, along with a baseline comparison
+and an interpretation of the result that you obtain.
+• Reflection: a discussion of the following:
+o What is hardest part of the project that you’ve encountered so far?
+o What are your initial insights?
+o Are there any concrete results you can show at this point? If not, why not?
+o Going forward, what are the current biggest problems you’re facing?
+
+o Do you think you are on track with your project? If not, what parts do you
+need to dedicate more time to?
+o Given your initial exploration of the data, is it worth proceeding with your
+project, why? If not, how are you going to change your project and why do
+you think it’s better than your current results?
+
+• Next steps: What you plan to accomplish in the next month and how you plan to
+evaluate whether your project achieved the goals you set for it.
