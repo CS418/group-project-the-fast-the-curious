@@ -8,8 +8,10 @@ and the question or questions you are investigating. (Georgi Nikolov)
 
 • Any changes: a discussion whether your scope has changed since the check-in
 proposal slides. What did you aim to do that you will not do and what have you
-added to the project? 
-• Data cleaning: show clearly how you cleaned your data. 
+added to the project? (Lizbeth Gutierrez)
+
+• Data cleaning: show clearly how you cleaned your data. (Lizbeth Gutierrez) 
+
 • Exploratory data analysis: explain what your data looks like (words are fine, but
 visualizations are often better). Include any interesting issues or preliminary
 conclusions you have about your data.
