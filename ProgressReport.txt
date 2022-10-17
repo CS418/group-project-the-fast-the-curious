@@ -1,5 +1,6 @@
 Group Members:
     Georgi Nikolov
+    Daniel Valencia
 
 •Project introduction: an introduction that discusses the data you are analyzing,
 and the question or questions you are investigating. (Georgi Nikolov)
@@ -34,4 +35,4 @@ and an interpretation of the result that you obtain.
     you think it’s better than your current results?
 
 • Next steps: What you plan to accomplish in the next month and how you plan to
-evaluate whether your project achieved the goals you set for it. (Georgi Nikolov)
+evaluate whether your project achieved the goals you set for it.
