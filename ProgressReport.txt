@@ -2,7 +2,7 @@ Group Members:
     Georgi Nikolov
 
 •Project introduction: an introduction that discusses the data you are analyzing,
-and the question or questions you are investigating.
+and the question or questions you are investigating. (Georgi Nikolov)
 
 • Any changes: a discussion whether your scope has changed since the check-in
 proposal slides. What did you aim to do that you will not do and what have you
@@ -16,7 +16,7 @@ conclusions you have about your data.
 
 • At least one visualization that tests an interesting hypothesis, along with an
 explanation about why you thought this was an interesting hypothesis to
-investigate.
+investigate. (Georgi Nikolov)
 
 • At least one ML analysis on your dataset, along with a baseline comparison
 and an interpretation of the result that you obtain.
@@ -34,4 +34,4 @@ and an interpretation of the result that you obtain.
     you think it’s better than your current results?
 
 • Next steps: What you plan to accomplish in the next month and how you plan to
-evaluate whether your project achieved the goals you set for it.
+evaluate whether your project achieved the goals you set for it. (Georgi Nikolov)
