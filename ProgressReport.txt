@@ -8,7 +8,7 @@ and the question or questions you are investigating. (Georgi Nikolov)
 
 • Any changes: a discussion whether your scope has changed since the check-in
 proposal slides. What did you aim to do that you will not do and what have you
-added to the project? (Georgi Nikolov/ Daniel Valencia)
+added to the project? (Georgi Nikolov)
 
 • Data cleaning: show clearly how you cleaned your data. (Lizbeth Gutierrez)
 
