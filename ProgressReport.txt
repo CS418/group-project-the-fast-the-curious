@@ -23,7 +23,7 @@ investigate. (Georgi Nikolov)
 • At least one ML analysis on your dataset, along with a baseline comparison
 and an interpretation of the result that you obtain. (Daniel Valencia)
 
-• Reflection: a discussion of the following:
+• Reflection: a discussion of the following: (Georgi Nikolov)
     o What is hardest part of the project that you’ve encountered so far?
     o What are your initial insights?
     o Are there any concrete results you can show at this point? If not, why not?
