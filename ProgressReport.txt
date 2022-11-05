@@ -2,6 +2,7 @@ Group Members:
     Georgi Nikolov
     Daniel Valencia
     Lizbeth Gutierrez
+    Jovad Uribe
 
 •Project introduction: an introduction that discusses the data you are analyzing,
 and the question or questions you are investigating. (Georgi Nikolov)
