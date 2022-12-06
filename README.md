@@ -1,6 +1,15 @@
 # group-project-the-fast-the-curious
 group-project-the-fast-the-curious created by GitHub Classroom
 
+# Group Members
+Georgi Nikolov (gnikol5@uic.edu) (Github: https://github.com/NikolovG)
+Daniel Valencia (dvalen2@uic.edu) (Github: https://github.com/Valencia24)
+Lizbeth Gutierrez (igutie37@uic.edu) (Github: https://github.com/lgutie37)
+Jovad Uribe (juribe5@uic.edu) (Github: https://github.com/jovuribe)
+
+# Python Modules (Not Native)
+Numpy, Pandas, Meteostat, Prophet, DateTime, Sklearn
+
 ### Original Data Reference:
 [Rapid API](https://rapidapi.com/meteostat/api/meteostat)
 
