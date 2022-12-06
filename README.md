@@ -2,10 +2,10 @@
 group-project-the-fast-the-curious created by GitHub Classroom
 
 # Group Members
-Georgi Nikolov (gnikol5@uic.edu) (Github: https://github.com/NikolovG)
-Daniel Valencia (dvalen2@uic.edu) (Github: https://github.com/Valencia24)
-Lizbeth Gutierrez (igutie37@uic.edu) (Github: https://github.com/lgutie37)
-Jovad Uribe (juribe5@uic.edu) (Github: https://github.com/jovuribe)
+Georgi Nikolov (gnikol5@uic.edu)&emsp;(Github: https://github.com/NikolovG)<br>
+Daniel Valencia (dvalen2@uic.edu)&emsp;(Github: https://github.com/Valencia24)<br>
+Lizbeth Gutierrez (igutie37@uic.edu)&emsp; (Github: https://github.com/lgutie37)<br>
+Jovad Uribe (juribe5@uic.edu)&emsp; (Github: https://github.com/jovuribe)<br>
 
 # Python Modules (Not Native)
 Numpy, Pandas, Meteostat, Prophet, DateTime, Sklearn
